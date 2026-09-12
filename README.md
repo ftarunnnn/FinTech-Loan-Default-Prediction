@@ -22,8 +22,8 @@ An end-to-end FinTech solution for predicting loan defaults, stratifying credit 
 | **Phase 6** | **ML Model Development** | Classical ML training: Random Forest & XGBoost with class weighting | ✅ Completed |
 | **Phase 7** | **DL Model Development** | Deep Learning: PyTorch ANN and sequential 12-month PyTorch LSTM | ✅ Completed |
 | **Phase 8** | **Model Comparison & Selection** | Benchmark Accuracy, Precision, Recall, F1, ROC-AUC; champion election | ✅ Completed |
-| **Phase 9** | **Risk Scoring & Explainability** | Continuous risk scoring (0-100%), Low/Med/High buckets, SHAP waterfall charts | ⏳ In Progress |
-| **Phase 10** | **Deployment & Monitoring** | Interactive Streamlit Web App + Automated Pipeline CLI (`run_pipeline.py`) | 🔲 Planned |
+| **Phase 9** | **Risk Scoring & Explainability** | Continuous risk scoring (0-100%), Low/Med/High buckets, SHAP waterfall charts | ✅ Completed |
+| **Phase 10** | **Deployment & Monitoring** | Interactive Streamlit Web App + Automated Pipeline CLI (`run_pipeline.py`) | ⏳ In Progress |
 
 ---
 

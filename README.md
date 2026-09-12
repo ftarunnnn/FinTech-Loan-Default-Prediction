@@ -18,8 +18,8 @@ An end-to-end FinTech solution for predicting loan defaults, stratifying credit 
 | **Phase 2** | **Data Collection** | Historical & sequential dataset synthesis (5,000 records + 12m payment history) | ✅ Completed |
 | **Phase 3** | **Data Preprocessing** | Missing value imputation, outlier handling, categorical encoding | ✅ Completed |
 | **Phase 4** | **EDA & Financial Analysis** | Univariate, bivariate, correlation heatmaps, behavioral insights | ✅ Completed |
-| **Phase 5** | **Feature Engineering & Data Split** | Financial ratios (DTI, LTI, PTI), stratified train/val/test splits | ⏳ In Progress |
-| **Phase 6** | **ML Model Development** | Classical ML training: Random Forest & XGBoost with class weighting | 🔲 Planned |
+| **Phase 5** | **Feature Engineering & Data Split** | Financial ratios (DTI, LTI, PTI), stratified train/val/test splits | ✅ Completed |
+| **Phase 6** | **ML Model Development** | Classical ML training: Random Forest & XGBoost with class weighting | ⏳ In Progress |
 | **Phase 7** | **DL Model Development** | Deep Learning: PyTorch ANN and sequential 12-month PyTorch LSTM | 🔲 Planned |
 | **Phase 8** | **Model Comparison & Selection** | Benchmark Accuracy, Precision, Recall, F1, ROC-AUC; champion election | 🔲 Planned |
 | **Phase 9** | **Risk Scoring & Explainability** | Continuous risk scoring (0-100%), Low/Med/High buckets, SHAP waterfall charts | 🔲 Planned |

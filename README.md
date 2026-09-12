@@ -15,8 +15,8 @@ An end-to-end FinTech solution for predicting loan defaults, stratifying credit 
 | Phase | Phase Name | Description | Status |
 | :---: | :--- | :--- | :---: |
 | **Phase 1** | **Problem Definition & Requirement Analysis** | Define problem statement, feature taxonomy, target variable, and risk categories | ✅ Completed |
-| **Phase 2** | **Data Collection** | Historical & sequential dataset synthesis (5,000 records + 12m payment history) | ⏳ In Progress |
-| **Phase 3** | **Data Preprocessing** | Missing value imputation, outlier handling, categorical encoding | 🔲 Planned |
+| **Phase 2** | **Data Collection** | Historical & sequential dataset synthesis (5,000 records + 12m payment history) | ✅ Completed |
+| **Phase 3** | **Data Preprocessing** | Missing value imputation, outlier handling, categorical encoding | ⏳ In Progress |
 | **Phase 4** | **EDA & Financial Analysis** | Univariate, bivariate, correlation heatmaps, behavioral insights | 🔲 Planned |
 | **Phase 5** | **Feature Engineering & Data Split** | Financial ratios (DTI, LTI, PTI), stratified train/val/test splits | 🔲 Planned |
 | **Phase 6** | **ML Model Development** | Classical ML training: Random Forest & XGBoost with class weighting | 🔲 Planned |
